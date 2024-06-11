@@ -1,0 +1,19 @@
+
+html body{
+  background-color: rgb(255, 255, 255);
+    color: rgb(249, 96, 0);
+    background-attachment: fixed;
+    font-family: 'oswald', 'sans';
+}
+
+
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+
+#email {
+  color: black;
+}
